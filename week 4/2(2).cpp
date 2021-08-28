@@ -7,7 +7,7 @@ float bmi(float h, float w) {
 	h = h / 100;
 	return w / (h * h);
 }
-int main2() {
+int main() {
 
 	float h, w, BMI;
 	printf("Enter your Height and Weight : ");
