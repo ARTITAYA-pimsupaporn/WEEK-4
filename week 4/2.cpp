@@ -17,7 +17,7 @@ char criterion(double bmi) {
 		}
 	}
 }
-int main1() {
+int main() {
 
 	double w, h, bmi;
 	printf("Enter your weight and height : ");
